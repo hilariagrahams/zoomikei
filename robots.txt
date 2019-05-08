@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jothaquohb.www.jodeit.org/sitemap.xml
